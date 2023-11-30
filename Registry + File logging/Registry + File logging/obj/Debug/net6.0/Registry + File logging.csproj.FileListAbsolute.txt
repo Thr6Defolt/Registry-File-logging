@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\bin\Debug\net6.0\Registry + File logging.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\bin\Debug\net6.0\Registry + File logging.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\bin\Debug\net6.0\Registry + File logging.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\bin\Debug\net6.0\Registry + File logging.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\bin\Debug\net6.0\Registry + File logging.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\refint\Registry + File logging.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\Registry + File logging.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Registry + File logging\Registry + File logging\obj\Debug\net6.0\ref\Registry + File logging.dll
